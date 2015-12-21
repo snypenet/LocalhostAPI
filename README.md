@@ -1,4 +1,4 @@
-# LocalhostAPI
+# Localhost API
 A .NET Form app that runs on a Windows PC.  
 It provides the framework to expose various local APIs to the web via a RestAPI hosted in the form app.
 
