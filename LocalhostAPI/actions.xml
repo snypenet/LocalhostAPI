@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <actions>
-  <action name="GetPrinterNames" type="LocalhostAPI.Library.GetPrinterNames" location="C:\Users\snypenet\Google Drive\Projects\LocalhostAPI\LocalhostAPI\LocalhostAPI.Library\bin\Debug\LocalhostAPI.Library.dll"/>
+  <action name="GetPrinterNames" type="LocalhostAPI.Library.GetPrinterNames" location="[path to dll]"/>
 </actions>
